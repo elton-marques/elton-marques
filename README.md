@@ -16,7 +16,7 @@ My main interests are **automation, backend development, data processing, APIs, 
 
 ### 🛡️ Invarly — Process Guardrails for monday.com
 
-**Commercial product · Source code private**
+**[Website](https://invarly.eltonmarques.com/)** · **Commercial product** · **Source code private**
 
 Invarly is a process-guardrails application for monday.com designed to verify whether workflows actually reach their expected final state — not just whether an automation ran.
 
@@ -55,7 +55,7 @@ The application is designed as a multi-tenant monday.com integration with secure
 
 ### 🌐 Personal Website & Developer Hub
 
-**[eltonmarques.com](https://eltonmarques.com/)**
+**[Website](https://eltonmarques.com/)** · **[Repository](REPLACE_WITH_WEBSITE_REPOSITORY_URL)**
 
 My personal website and developer hub, built to showcase my projects, software products, technical work, services, and contact information.
 
@@ -67,7 +67,7 @@ It also serves as a central place for live applications, experiments, and public
 
 ### 📊 Cartão Mestre Dashboard
 
-**[Live Demo](https://eltonmarques.com/cartaomestre-demo/app/)** · **Fictional data**
+**[Live Demo](https://eltonmarques.com/cartaomestre-demo/app/)** · **[Repository](REPLACE_WITH_CARTAO_MESTRE_REPOSITORY_URL)** · **Fictional data**
 
 A dashboard designed to transform manually recorded operational data into useful information for analysis and decision-making.
 
@@ -89,7 +89,7 @@ The project originated from a real operational workflow and explores how manuall
 
 ### 📝 MestreCheck — Handwritten Cartão Mestre OCR
 
-**[Live Demo](https://eltonmarques.com/leitor)**
+**[Live Demo](https://eltonmarques.com/leitor)** · **[Repository](REPLACE_WITH_MESTRECHECK_REPOSITORY_URL)**
 
 MestreCheck is a specialized application designed to process handwritten **Cartão Mestre access-release forms**.
 
