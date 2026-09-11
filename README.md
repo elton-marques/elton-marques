@@ -4,7 +4,7 @@
 
 I’m a developer from Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I learn by building real software for real problems — from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
+I learn by building real software for real problems, from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
 
 My main interests are **automation, backend development, data processing, APIs, workflow integrations, and practical software engineering**.
 
@@ -14,11 +14,11 @@ My main interests are **automation, backend development, data processing, APIs, 
 
 ## Products
 
-### 🛡️ Invarly — Process Guardrails for monday.com
+### 🛡️ Invarly | Process Guardrails for monday.com
 
-**[Website](https://invarly.eltonmarques.com/)** · **Commercial product** · **Source code private**
+[**Website**](https://invarly.eltonmarques.com/) · **Commercial product** · **Source code private**
 
-Invarly is a process-guardrails application for monday.com designed to verify whether workflows actually reach their expected final state — not just whether an automation ran.
+Invarly is a process guardrails application for monday.com designed to verify whether workflows actually reach their expected final state, not just whether an automation ran.
 
 Teams can define time-bound rules such as:
 
@@ -33,7 +33,7 @@ The application is designed as a multi-tenant monday.com integration with secure
 **Key features:**
 
 - Time-bound process guardrails
-- Workflow-state validation
+- Workflow state validation
 - Violation lifecycle tracking
 - monday.com board integration
 - Event-driven monitoring with webhooks
@@ -55,7 +55,7 @@ The application is designed as a multi-tenant monday.com integration with secure
 
 ### 🌐 Personal Website & Developer Hub
 
-**[Website](https://eltonmarques.com/)** · **[Repository](REPLACE_WITH_WEBSITE_REPOSITORY_URL)**
+[**Website**](https://eltonmarques.com/) · **Repository**
 
 My personal website and developer hub, built to showcase my projects, software products, technical work, services, and contact information.
 
@@ -67,7 +67,7 @@ It also serves as a central place for live applications, experiments, and public
 
 ### 📊 Cartão Mestre Dashboard
 
-**[Live Demo](https://eltonmarques.com/cartaomestre-demo/app/)** · **[Repository](REPLACE_WITH_CARTAO_MESTRE_REPOSITORY_URL)** · **Fictional data**
+[**Live Demo**](https://eltonmarques.com/cartaomestre-demo/app/) · **Repository** · **Fictional data**
 
 A dashboard designed to transform manually recorded operational data into useful information for analysis and decision-making.
 
@@ -87,9 +87,9 @@ The project originated from a real operational workflow and explores how manuall
 
 ---
 
-### 📝 MestreCheck — Handwritten Cartão Mestre OCR
+### 📝 MestreCheck | Handwritten Cartão Mestre OCR
 
-**[Live Demo](https://eltonmarques.com/leitor)** · **[Repository](REPLACE_WITH_MESTRECHECK_REPOSITORY_URL)**
+[**Live Demo**](https://eltonmarques.com/leitor) · **Repository**
 
 MestreCheck is a specialized application designed to process handwritten **Cartão Mestre access-release forms**.
 
@@ -104,9 +104,9 @@ I also developed a desktop version using **Python and Tkinter**, sharing the sam
 - Handwritten document processing
 - Image preprocessing
 - OCR-based data extraction
-- Document-layout validation
+- Document layout validation
 - Structured field extraction
-- Invalid-document detection
+- Invalid document detection
 - Desktop and web interfaces
 
 **Tech:** Python, PaddleOCR, OpenCV, Tkinter, web technologies.
@@ -216,7 +216,7 @@ Many of my projects started from noticing those problems and asking:
 
 > **Could this process be handled better by software?**
 
-That mindset led me from small automation scripts to dashboards, OCR systems, web applications, integrations, and now commercial software products.
+That mindset led me from small automation scripts to dashboards, OCR systems, web applications, integrations, and commercial software products.
 
 I’m continuously improving my skills through hands-on development, experimentation, documentation, testing, and real-world projects.
 
