@@ -4,7 +4,7 @@
 
 I’m a developer from Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I learn by building real software for real problems, from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
+I build software for practical problems, from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
 
 I’m particularly interested in **automation, data processing, APIs, workflow integrations, backend development, and practical software solutions**.
 
@@ -117,7 +117,7 @@ I also developed a desktop version using **Python and Tkinter**, sharing the sam
 
 ## What I Build
 
-I’m particularly interested in software that reduces operational friction and turns repetitive or fragmented workflows into more reliable systems.
+I’m particularly interested in software that reduces operational friction and improves repetitive or fragmented workflows.
 
 Areas I work with include:
 
@@ -185,15 +185,13 @@ These are some of the technologies, platforms, and tools used across my projects
 
 ## How I Approach Development
 
-I prefer learning by building.
-
-Most of my projects begin with a concrete problem: a repetitive workflow, fragmented data, a manual control process, or an opportunity to make an existing operation more reliable.
+Most of my projects begin with a concrete problem: a repetitive workflow, fragmented data, a manual process, or an opportunity to make an existing operation more reliable.
 
 My usual approach is:
 
-1. Understand the real workflow and its problems.
+1. Understand the workflow and the problem.
 2. Define what the software needs to accomplish.
-3. Build the smallest useful version.
+3. Build a useful first version.
 4. Test it with realistic scenarios.
 5. Identify issues and improve the solution.
 6. Refine usability, reliability, and maintainability.
