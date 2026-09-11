@@ -4,7 +4,7 @@
 
 I’m a developer from Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I build software for practical problems, from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
+I build software to solve practical problems, from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
 
 I’m particularly interested in **automation, data processing, APIs, workflow integrations, backend development, and practical software solutions**.
 
@@ -123,7 +123,6 @@ Areas I work with include:
 
 - Python automation and scripting
 - Web applications
-- Backend applications
 - APIs and integrations
 - Data processing and validation
 - Excel, CSV, and spreadsheet workflows
@@ -140,82 +139,3 @@ Areas I work with include:
 ## Technologies Used in My Projects
 
 These are some of the technologies, platforms, and tools used across my projects.
-
-### Programming
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
-### Web & Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-### Data, Automation & Integrations
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-3C4043?style=flat" />
-  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat" />
-</p>
-
-### Tools & Infrastructure
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white" />
-</p>
-
----
-
-## How I Approach Development
-
-Most of my projects begin with a concrete problem: a repetitive workflow, fragmented data, a manual process, or an opportunity to make an existing operation more reliable.
-
-My usual approach is:
-
-1. Understand the workflow and the problem.
-2. Define what the software needs to accomplish.
-3. Build a useful first version.
-4. Test it with realistic scenarios.
-5. Identify issues and improve the solution.
-6. Refine usability, reliability, and maintainability.
-
-I’m especially interested in the point where **software meets real operational processes**.
-
----
-
-## About Me
-
-I currently work in **loss prevention in retail** while developing software and studying Systems Analysis and Development.
-
-Working close to day-to-day operations gives me direct exposure to processes that still depend heavily on spreadsheets, paper, manual verification, repetitive tasks, and disconnected information.
-
-Many of my projects started from noticing those problems and asking:
-
-> **Could this process be handled better by software?**
-
-That mindset has led me to build automation tools, dashboards, OCR systems, web applications, integrations, and commercial software products.
-
-I’m continuously improving my skills through hands-on development, experimentation, study, and real-world projects.
-
----
-
-<p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
-</p>
