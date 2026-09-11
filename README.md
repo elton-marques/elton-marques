@@ -4,7 +4,7 @@
 
 I’m a developer from Brazil, currently pursuing a degree in **Systems Analysis and Development**.
 
-I build software to solve practical problems, from internal tools and operational dashboards to OCR systems, integrations, and commercial applications.
+I build software to solve practical problems, including internal tools, operational dashboards, OCR systems, integrations, and commercial applications.
 
 I’m particularly interested in **automation, data processing, APIs, workflow integrations, backend development, and practical software solutions**.
 
