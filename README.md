@@ -14,16 +14,9 @@ That experience shapes what I build: tools that turn operational data into usefu
 
 **Commercial application in development · Private source code**
 
-An application that checks whether a workflow reaches its expected final state. Teams define an expected outcome and a deadline, for example:
+An application that monitors whether monday.com workflows reach their expected outcome within a defined deadline—for example, whether an item marked Done moves to Archive within 10 minutes.
 
-> When an item becomes Done, it must be moved to Archive within 10 minutes.
-
-Invarly monitors board activity and tracks violations when the expected outcome does not occur in time. This helps surface broken automations, incomplete manual steps, and inconsistent processes.
-
-- Time-bound rules and workflow state validation.
-- Event-driven monitoring with webhooks and reconciliation.
-- Violation tracking and resolution, with duplicate prevention.
-- Role-based permissions, account isolation, and monitoring health states.
+It tracks violations to help teams identify broken automations and incomplete manual steps, with role-based permissions and isolation between accounts.
 
 **Built with:** TypeScript, Node.js, monday.com GraphQL API, OAuth with PKCE, monday Code, and Vitest.
 
