@@ -22,6 +22,16 @@ It tracks violations to help teams identify broken automations and incomplete ma
 
 [Explore Invarly](https://invarly.eltonmarques.com/)
 
+### Lockeris: Employee locker management
+
+An internal application for retail loss prevention teams to manage employee lockers across branches. It centralizes assignments, transfers, key-copy tracking, and spreadsheet imports, with checks for missing or inconsistent records.
+
+The platform also includes locker inspections, lost-and-found tracking, printable responsibility forms, and an audit trail of operational changes. A dashboard brings together occupancy, available capacity, and records that need attention.
+
+**Built with:** TypeScript, React, Fastify, PostgreSQL, and Docker Compose.
+
+[Project repository](https://github.com/elton-marques/Lockeris)
+
 ### Cartão Mestre Dashboard — Operational data analysis
 
 A dashboard that turns manually recorded operational data into structured views for analysis and monitoring. It grew out of a real operational workflow and brings together interactive charts, filters, historical analysis, and operational metrics.
@@ -63,6 +73,7 @@ Technologies and tools used across my projects:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -72,6 +83,7 @@ Technologies and tools used across my projects:
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 Document processing, data validation, and Excel and CSV workflows.
 
@@ -89,6 +101,7 @@ API integrations, workflow automation, web scraping, and data extraction.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
 
