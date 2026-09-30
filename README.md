@@ -46,9 +46,9 @@ The public demo uses **fictional data** and does not expose real company informa
 
 A specialized OCR application for handwritten **Cartão Mestre access-release forms**. It uses image preprocessing and document layout checks to extract structured fields, validate detected data, and reject documents that do not match the expected format.
 
-The project includes web and desktop interfaces. The desktop version uses Tkinter and shares the same OCR processing core.
+The project includes web and desktop interfaces built around the same OCR processing core.
 
-**Built with:** Python, PaddleOCR, OpenCV, and Tkinter.
+**Built with:** Python, PaddleOCR, and OpenCV.
 
 [Live demo](https://eltonmarques.com/leitor) · [Source code](https://github.com/elton-marques/leitor-matriculas)
 
@@ -69,68 +69,32 @@ Technologies and tools used across my projects:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
 
-### Web & backend
+### Web & integrations
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-Request and schema validation with **Zod** and **Pydantic**, and API documentation with **OpenAPI / Swagger**.
+API integrations with OAuth and webhooks, workflow automation, web scraping, and data extraction.
 
-### Databases
+### Data & documents
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Data & documents
-
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=flat&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-Image and PDF processing with **Pillow** and **PyMuPDF**, Excel workflows with **openpyxl** and **ExcelJS**, and CSV parsing with **Papa Parse**.
-
-### Automation & integrations
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C4043?style=flat&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat&logoColor=white)
-
-API integrations, workflow automation, web scraping, and data extraction.
-
-### Desktop applications
-
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logoColor=white)
-![pywebview](https://img.shields.io/badge/pywebview-3776AB?style=flat&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat&logoColor=white)
-
-Python desktop interfaces and packaging for standalone applications.
-
-### Testing & code quality
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-
-Unit, integration, and browser tests, including React component testing with **Testing Library**.
 
 ### Tools & infrastructure
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
 
 ## How I work
 
